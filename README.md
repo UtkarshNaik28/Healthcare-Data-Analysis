@@ -1,6 +1,3 @@
-# 🩺📊 PowerBi-Healthcare-Dashboard
-An interactive Power BI dashboard for healthcare data analysis, highlighting patient trends, doctor workload, common diagnoses, and cost analytics across cities.
-
 ## 📊 Project Overview
 This Power BI dashboard presents a comprehensive healthcare analysis using visual insights from patient records, doctor statistics, diagnosis trends, lab test outcomes, and treatment costs. It is designed to support healthcare administrators and analysts in making data-driven decisions.
 
